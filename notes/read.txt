@@ -1,0 +1,17 @@
+React is a javascript library that provides a simple interface for building web applications.
+
+React is made up of components that returns JSX.
+
+A component in React is a function (There was a time where class components were used). Its the building blocks of everything
+
+JSX is a mixture of javascript and xml. We typically write xml (html) as usual, but use curly braces {} (expressions) to write javascript expressions.
+
+We can use expressions to write javascript evaluations data can then be rendered. Because React only renders data as text, any other data type (except strings) cannot be rendered directly. Instead they are converted and rendered as texts (strings). To add it up and a quick note, trying to render objects will likely cause an error and booleans will not be rendered and complety ignored.
+
+Props stands for properties and prop drilling is teh process of passing properties (data) to a component. It comes as a param and an object and we could destructure it in the component function. We can also set default props too.
+
+Lists in react are arrays mapped to create a component. Each list should have its own unique key
+
+Contolled inputs are form inputs in React where the input value is tied to a state
+
+Fragments are a continuation of a component they are used as an empty opening and closing tag.

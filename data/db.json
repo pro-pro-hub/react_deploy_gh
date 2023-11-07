@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to Nigeria",
+      "datetime": "November 06, 2023 8:36:16 PM",
+      "body": "You are highly welcome to Nigeria. Get ready to be trilled by our awesome land terrain. Do enjoy you stay!!! 😊😍"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "November 06, 2023 8:48:28 PM",
+      "body": "Hey, Enjoy!!! 😉"
+    }
+  ]
+}
